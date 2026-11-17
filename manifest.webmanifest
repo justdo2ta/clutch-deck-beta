@@ -1,0 +1,18 @@
+{
+  "name": "클러치 덱 · 웹 베타",
+  "short_name": "클러치 덱",
+  "description": "매 타석이 한 턴인 턴제 야구 카드 배틀",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070E18",
+  "theme_color": "#070E18",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
