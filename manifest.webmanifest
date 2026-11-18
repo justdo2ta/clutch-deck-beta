@@ -1,7 +1,7 @@
 {
   "name": "클러치 덱 · 웹 베타",
   "short_name": "클러치 덱",
-  "description": "매 타석이 한 턴인 턴제 야구 카드 배틀",
+  "description": "한 구 한 구가 승부인 턴제 야구 카드 배틀",
   "lang": "ko",
   "dir": "ltr",
   "start_url": "./",
