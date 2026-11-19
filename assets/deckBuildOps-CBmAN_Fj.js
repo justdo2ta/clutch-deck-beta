@@ -1,0 +1,1 @@
+import{M as e,N as t,j as n}from"./matchEngine-Dth_AU_8.js";function r(t,n,r){return e(t,n,r)}function i(e,t,r){return n(e,t,r)}function a(e,n){let r=t(e,n);return{batting:r.batting,pitching:r.pitching,total:r.total}}export{r as autoBuildComposition,i as copyComposition,a as powerOfComposition};
