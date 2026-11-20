@@ -1,0 +1,1 @@
+import{F as e,N as t,P as n}from"./matchEngine-1dJ-B8Lk.js";function r(e,t,r){return n(e,t,r)}function i(e,n,r){return t(e,n,r)}function a(t,n){let r=e(t,n);return{batting:r.batting,pitching:r.pitching,total:r.total}}export{r as autoBuildComposition,i as copyComposition,a as powerOfComposition};
